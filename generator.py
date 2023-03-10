@@ -1,0 +1,5 @@
+letters = ["a" , "b" , "c" , "d" , "e" , "f" , "g" , "h" , "i" , "j" , "k" , "l" , "m" , "n" , "o" , "p" , "q" , "r" , "s" , "t" , "u" , "v" , "w" , "x" , "y" , "z"]
+catimages = ["https://i.imgur.com/16A8cs9.jpg" , "https://i.imgur.com/vbYSa0p.jpg" , "https://i.imgur.com/gwzzJ4Q.jpg" , "https://i.imgur.com/ixpJ4fV.jpg" , "https://i.imgur.com/BY7mHsg.jpg" , "https://i.imgur.com/DWlqp8q.jpg" , "https://i.imgur.com/jAtvNdr.jpg" , "https://i.imgur.com/YCCFHpl.jpg"]
+dogimages = ["https://i.imgur.com/Zfy0BwT.jpg" , "https://i.imgur.com/8f7ywIP.jpg" , "https://i.imgur.com/HWJuCSu.jpg" , "https://i.imgur.com/F4ey9aP.jpg"]
+birdimages = ["https://i.imgur.com/7dy6F37.jpg" , "https://i.imgur.com/qZoTHo2.jpg" , "https://i.imgur.com/AZFWeqe.jpg" , "https://i.imgur.com/WK4o2j1.jpg" , "https://i.imgur.com/ZU0l7zn.jpg" , "https://i.imgur.com/8IENF6r.jpg" , "https://i.imgur.com/LZJ2YCY.jpg" , "https://i.imgur.com/nYdJaSz.jpg"]
+number_list = ["5" , "10" , "15" , "20" , "25" , "30" , "35" , "40" , "45" , "50" , "55" , "60" , "65" , "70" , "75" , "80" , "85" , "90" , "95" , "100"]
