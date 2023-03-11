@@ -1,2 +1,2 @@
-# Old-Panda-Bot
-This version of panda has been abandoned and you can fork if you want your own python bot with these commands 
+# Panda.py Discord Bot
+My First python Discord Bot. Not very good but since this project I have learnt many new things
