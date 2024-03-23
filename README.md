@@ -1,2 +1,2 @@
 # Panda.py Discord Bot
-My First python Discord Bot. Not very good but since this project I have learnt many new things
+The original version of [Cloudy](https://github.com/Atomic2ds/Cloudy), not much of this is seen in the latest version though
